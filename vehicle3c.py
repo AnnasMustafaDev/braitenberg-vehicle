@@ -4,6 +4,8 @@
 # Oxygen (Blue): Explorer (Likes but unstable) -> Crossed Inhibitory
 # Organic (Green): Lover (Stays permanently) -> Uncrossed Inhibitory
 
+# This code creates 4 different "source" objects on the screen. 
+# The vehicle sums the inputs from all sensors to decide its movement.
 
 import pygame
 import math
