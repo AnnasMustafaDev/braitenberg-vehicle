@@ -1,1 +1,1 @@
-this repo contains braitenburg-vehicle implementations with different scenerios and methods using pygame.
+This repo contains braitenburg-vehicles implementations with different scenerios and methods using pygame.
